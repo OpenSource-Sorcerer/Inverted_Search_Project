@@ -2,7 +2,10 @@
 
 ## Overview
 
-    The Inverted Search Project is a text-processing utility that builds an inverted index from text files. An inverted index is a data structure commonly used in search engines to map words to their occurrences within a set of documents. This project is designed to demonstrate the power of such a structure in efficiently retrieving information.
+    The Inverted Search Project is a text-processing utility that builds an inverted index from text files. 
+    An inverted index is a data structure commonly used in search engines to map words to their 
+    occurrences within a set of documents. This project is designed to demonstrate the 
+    power of such a structure in efficiently retrieving information.
 
 ## Features
 
